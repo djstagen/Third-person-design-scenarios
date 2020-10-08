@@ -2714,7 +2714,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 719833264}
-  m_LocalRotation: {x: 0.33195215, y: 0.1833444, z: -0.065942094, w: 0.92295414}
+  m_LocalRotation: {x: 0.33195212, y: 0.18334436, z: -0.06594208, w: 0.92295414}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -3451,7 +3451,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 83441c8f117c2dd4f8d3f8188f8ce34c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  message: Left longer message duration
+  message: 'Left longer message duration
+
+    sdf
+
+    dddd'
   messageDuration: 5
 --- !u!114 &934684423
 MonoBehaviour:
@@ -4488,7 +4492,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1735502937}
-  m_LocalRotation: {x: 0.36525935, y: 0.18082806, z: -0.07255861, w: 0.91028684}
+  m_LocalRotation: {x: 0.3652593, y: 0.180828, z: -0.072558574, w: 0.91028684}
   m_LocalPosition: {x: 9.032993, y: 4.42, z: 18.102097}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
@@ -4849,7 +4853,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1923182362}
-  m_LocalRotation: {x: 0.36525935, y: 0.18082805, z: -0.072558545, w: 0.91028684}
+  m_LocalRotation: {x: 0.36525932, y: 0.18082802, z: -0.07255854, w: 0.91028684}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
